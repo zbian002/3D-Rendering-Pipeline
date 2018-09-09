@@ -35,4 +35,4 @@ Be sure to test your project on one of the delta machines. All of the delta mach
 
 ## Authors
 
-* **Zhen Bian** - *Initial work* - [PurpleBooth](https://github.com/zbian002/3D-Rendering-Pipeline)
+* **Zhen Bian** - *Initial work* - [3D rendering pipeline](https://github.com/zbian002/3D-Rendering-Pipeline)
